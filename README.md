@@ -1,12 +1,12 @@
 ## AmorBot-MD✨
 
 <p align="center">
-<img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="CuriosityBot-MD" width="900"/>
+<img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="AmorBot-MD" width="900"/>
 </p>
 
-<a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/azamijs/AmorBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/AmorBot-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azamijs/AmorBot-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/AmorBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
 <a href="https://www.youtube.com/@Azami_19">
@@ -19,16 +19,16 @@
 ### Ejemplo 
 En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
+<a href="https://chat.whatsapp.com/KR6pP5PG30Y40mwjJj6V1d">
   <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/AzamiJs/CuriosityBot-MD/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/package.json#L42)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/AzamiJs/AmorBot-MD/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/AzamiJs/AmorBot-MD/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/AzamiJs/AmorBot-MD/blob/main/package.json#L42)
 ***
 
 #### INSTALACIÓN AUTOMÁTICA POR TERMUX
@@ -39,7 +39,7 @@ En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AzamiJs/CuriosityBot-MD/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/AzamiJs/AmorBot-MD/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -76,7 +76,7 @@ npm start
 #### `☂️ ACTIVA EN HEROKU ☂️`
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azami19/CuriosityBot-MD1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azami19/AmorBot-MD1)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -89,7 +89,7 @@ para usuarios del heroku
 ### `OBTENER OTRO CODIGO QR`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd CuriosityBot-MD
+> cd AmorBot-MD
 > rm -rf sessions
 > npm start
 ```
